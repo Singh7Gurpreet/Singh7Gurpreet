@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
 <h3 align="center">A student in University of Lethbridge passionate about backend systems</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Student;I+am+a+Problem+Solver;I+am+a+Tech+Enthusiast&font=Fira%20Code&center=true&width=435&height=50&duration=4000&pause=1000" alt="I am Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Student;Problem+Solver;Tech+Enthusiast;Software+Engineer;Backend+Developer&font=Fira%20Code&center=true&width=435&height=50&duration=4000&pause=1000" alt="I am Typing SVG">
 </p>
 
 
